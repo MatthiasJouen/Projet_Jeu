@@ -1,0 +1,3 @@
+Pour ce qui esty de la library je ne peux pas la mettre sur git elle est trop conséquente
+mais je mets un screen du dossier dans le dossier ressources. 
+Comme ça vous savez ce que j'ai utilisé
